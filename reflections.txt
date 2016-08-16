@@ -2,8 +2,22 @@ You've learned a lot about web development so far. I want you to take a moment t
   * What new skills have you learned?
   * What has been easy?
   * What has been difficult?
+
   * How have you used the problem solving strategies from the first project to overcome challenges so far?
 
 ---
 
 Your response goes here!
+
+1.
+- HTML indentation
+- using superscript, strikethrough and horizontal rule.
+
+2.
+- Yes, it does! :)
+
+3.
+It has been very easy to solve.
+
+4.
+-Well, when a problem appears, maybe an unknown/new text formatting, I do some research at MDN or StackOverflow. Every issue was solved that way.

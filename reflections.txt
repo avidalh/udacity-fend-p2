@@ -14,10 +14,10 @@ Your response goes here!
 - using superscript, strikethrough and horizontal rule.
 
 2.
-- Yes, it does! :)
+- Yes, it has! :)
 
 3.
-It has been very easy to solve.
+- It has been very easy to solve and no important issues were appeared.
 
 4.
--Well, when a problem appears, maybe an unknown/new text formatting, I do some research at MDN or StackOverflow. Every issue was solved that way.
+- Well, when a problem appears, maybe an unknown/new text formatting, I do some research at MDN or StackOverflow. Every issue was solved that way.
